@@ -11,7 +11,7 @@ This program requests user input for a number of nights to stay at a hotel. Afte
 
 
 <h2>Screenshots:</h2>
-<img src="https://github.com/JrewSimpson/Cardinal-Insurance/blob/20bec94596a40f605ef66184b2f7775d632768e1/Cardinal%20Example1.JPG" height="80%" width="80%" alt="]"/>
-<img src="https://github.com/JrewSimpson/Cardinal-Insurance/blob/20bec94596a40f605ef66184b2f7775d632768e1/Cardinal%20Example2.JPG" height="80%" width="80%" alt="]"/>
+<img src="https://github.com/JrewSimpson/Hotel-Check-In/blob/425549b629286d72ee56377567add79a28298dc5/Hotel1.JPG" height="80%" width="80%" alt="]"/>
+<img src="https://github.com/JrewSimpson/Hotel-Check-In/blob/425549b629286d72ee56377567add79a28298dc5/Hotel2.JPG" height="80%" width="80%" alt="]"/>
 
 <h2>Code:</h2>
